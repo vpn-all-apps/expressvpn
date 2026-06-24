@@ -9,7 +9,7 @@ The **🔒 ExpressVPN** is one of the world's fastest and most reliable VPN serv
 
 <div align="center">
 
-[![Download ExpressVPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-expressvpn-download)
+[![Download ExpressVPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-expressvpn-download)
 
 </div>
 
@@ -210,7 +210,7 @@ One tool. Premium VPN. Zero cost.
 
 <div align="center">
 
-[![Download ExpressVPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-expressvpn-download)
+[![Download ExpressVPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-expressvpn-download)
 
 **Version 2026.96.1** — Premium VPN. Fastest connection. Free forever.
 
